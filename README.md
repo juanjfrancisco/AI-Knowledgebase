@@ -1,16 +1,16 @@
 # AI Projects Resources
 This is a collection of links to various AI projects, tools, and resources that you might find useful or interesting. They are grouped by category based on their main topic or functionality.
 
-## Time Series Analysis
-- [PyPI - Stable TS 1.1.1b0](https://pypi.org/project/stable-ts/1.1.1b0/): A Python package for stable and robust time series analysis and forecasting.
-- [GitHub - Stable TS](https://github.com/jianfch/stable-ts): The source code and documentation for the Stable TS package.
+## Automatic speech recognition (ASR)
+- [PyPI - Stable TS 1.1.1b0](https://pypi.org/project/stable-ts/1.1.1b0/): Stabilizing timestamps of OpenAI's Whisper outputs down to word-level.
+- [GitHub - Stable TS](https://github.com/jianfch/stable-ts): Stabilizing Timestamps for Whisper.
 
 ## Programming Languages and Interpreters
-- [GitHub - Open Interpreter](https://github.com/KillianLucas/open-interpreter): A project to create an open-source, cross-platform, and extensible interpreter for various programming languages.
-- [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api): A RESTful API that allows you to execute code snippets in different languages and get the output.
+- [GitHub - Open Interpreter](https://github.com/KillianLucas/open-interpreter): Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally.
+- [Code Interpreter API](https://github.com/shroominic/codeinterpreter-api): A LangChain implementation of the ChatGPT Code Interpreter. Using CodeBoxes as backend for sandboxed python code execution.
 
 ## Translation and Subtitles
-- [Supertranslate.ai](https://github.com/ramsrigouthamg/Supertranslate.ai/blob/main/Scrolling_Subtitles_On_Video_using_Python/Scrolling_Subtitles_On_Video_using_Python.ipynb): A platform that provides fast and accurate translation services for text, speech, and video. Check out the [Scrolling Subtitles on Video using Python](https://github.com/ramsrigouthamg/Supertranslate.ai/blob/main/Scrolling_Subtitles_On_Video_using_Python/Scrolling_Subtitles_On_Video_using_Python.ipynb) tutorial.
+- [Supertranslate.ai](https://github.com/ramsrigouthamg/Supertranslate.ai/blob/main/Scrolling_Subtitles_On_Video_using_Python/Scrolling_Subtitles_On_Video_using_Python.ipynb): Notebook tutorial for scrolling subtitles on video.
 - [Translate Text with Hugging Face Transformers and Google Colab](https://drlee.io/translate-text-from-any-language-to-any-language-with-hugging-face-transformers-and-google-colab-272876150a93): A blog post that explains how to use Hugging Face Transformers and Google Colab to translate text from any language to any language.
 
 ## Natural Language Processing and Generation
