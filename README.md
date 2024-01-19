@@ -14,14 +14,14 @@ This is a collection of links to various AI projects, tools, and resources that 
 - [Translate Text with Hugging Face Transformers and Google Colab](https://drlee.io/translate-text-from-any-language-to-any-language-with-hugging-face-transformers-and-google-colab-272876150a93): A blog post that explains how to use Hugging Face Transformers and Google Colab to translate text from any language to any language.
 
 ## Natural Language Processing and Generation
-- [Hugging Face - Gorilla OpenFunctions v1](https://huggingface.co/TheBloke/gorilla-openfunctions-v1-GGUF): A Hugging Face model that can generate natural language functions for various tasks and domains.
-- [Outlines - Aligning LLMs](https://github.com/outlines-dev/outlines): A tool that helps you align large language models (LLMs) with your domain and task by creating outlines of the desired output.
+- [Hugging Face - Gorilla OpenFunctions v1](https://huggingface.co/TheBloke/gorilla-openfunctions-v1-GGUF): Gorilla OpenFunctions extends Large Language Model(LLM) Chat Completion feature to formulate executable APIs call given natural language instructions and API context.
+- [Outlines - Aligning LLMs](https://github.com/outlines-dev/outlines): Outlines provides ways to control the generation of language models to make their output more predictable.
 - [YouAI](https://youai.ai/): A platform that allows you to create personalized AI assistants that can chat, write, and perform tasks for you.
 - [LlamaIndex Chat with Streamlit](https://github.com/carolinedlu/llamaindex-chat-with-streamlit-docs/blob/main/streamlit_app.py): A Streamlit app that lets you chat with LlamaIndex, a natural language search engine for financial data.
 
 ## Speech Synthesis and Recognition
-- [GitHub - Coqui TTS](https://github.com/coqui-ai/TTS): A library for text-to-speech synthesis using deep learning.
-- [YouTube - Fine-Tuning with QLoRa](https://www.youtube.com/watch?v=OQdp-OeG1as): A video that demonstrates how to fine-tune a speech recognition model using QLoRa, a framework for low-resource speech recognition.
+- [GitHub - Coqui TTS](https://github.com/coqui-ai/TTS): A deep learning toolkit for Text-to-Speech, battle-tested in research and production.
+- [YouTube - Fine-tuning Language Models for Structured Responses with QLoRa](https://www.youtube.com/watch?v=OQdp-OeG1as): A video that demonstrates how to fine-tune a speech recognition model using QLoRa, a framework for low-resource speech recognition.
 
 ## Computer Vision and Graphics
 - [GitHub - Virtual World](https://github.com/gniziemazity/virtual-world): A project that aims to create a realistic and interactive virtual world using computer vision and graphics techniques.
@@ -34,8 +34,9 @@ This is a collection of links to various AI projects, tools, and resources that 
 
 ## Miscellaneous
 - [Notebooks Variety](https://github.com/githubpradeep/notebooks): A collection of Jupyter notebooks that cover various topics and applications of AI and machine learning.
-- [YouTube - Miscellaneous Video](https://www.youtube.com/watch?v=xPd8FFzIeOw): A video that shows some cool and fun AI projects and experiments.
-- [YouTube - Video Tutorial](https://www.youtube.com/watch?v=paw7_cZoN1Q): A video that teaches you how to build a simple AI chatbot using Python and TensorFlow.
-- [YouTube - Clean Code with JavaScript](https://www.youtube.com/watch?v=5iHejdqYIa8): A video that explains how to write clean and maintainable code with JavaScript.
-- [YouTube - Fine-Tuning Overview](https://www.youtube.com/watch?v=OVqe6GTrDFM): A video that gives an overview of fine-tuning, a technique that adapts a pre-trained model to a new task or domain.
-- [YouTube - Fine-Tuning from Another Perspective](https://www.youtube.com/watch?v=hZPfKrNeKpQ): A video that offers another perspective on fine-tuning and its challenges and opportunities.
+- [YouTube - ChatGPT "Code Interpreter" But 100% Open-Source (Open Interpreter Tutorial)](https://www.youtube.com/watch?v=xPd8FFzIeOw): ChatGPT "Code Interpreter" But 100% Open-Source (Open Interpreter Tutorial)
+- [YouTube - DATA SCIENCE](https://www.youtube.com/watch?v=paw7_cZoN1Q): DATA SCIENCE: Te explico un PROYECTO TÍPICO desde el Problema Hasta el Código [INCLUYE App].
+- [YouTube - JavaScript Tutorial](https://www.youtube.com/watch?v=5iHejdqYIa8): Build a Virtual World Filled with Self-Driving Cars.
+- [YouTube - Tiny-Llama](https://www.youtube.com/watch?v=OVqe6GTrDFM): Fine-Tune Your Own Tiny-Llama on Custom Dataset.
+- [YouTube - Finetune Tiny LLaMA 1.1B](https://www.youtube.com/watch?v=hZPfKrNeKpQ): Finetune Tiny LLaMA 1.1B On A Custom Dataset - Function Calling - JSON Mode
+.
