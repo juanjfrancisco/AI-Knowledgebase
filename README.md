@@ -12,6 +12,7 @@ This is a collection of links to various AI projects, tools, and resources that 
 ## Translation and Subtitles
 - [Supertranslate.ai](https://github.com/ramsrigouthamg/Supertranslate.ai/blob/main/Scrolling_Subtitles_On_Video_using_Python/Scrolling_Subtitles_On_Video_using_Python.ipynb): Notebook tutorial for scrolling subtitles on video.
 - [Translate Text with Hugging Face Transformers and Google Colab](https://drlee.io/translate-text-from-any-language-to-any-language-with-hugging-face-transformers-and-google-colab-272876150a93): A blog post that explains how to use Hugging Face Transformers and Google Colab to translate text from any language to any language.
+- [subtitles-generator](https://github.com/konverner/subtitles-generator/tree/main)
 
 ## Natural Language Processing and Generation
 - [Hugging Face - Gorilla OpenFunctions v1](https://huggingface.co/TheBloke/gorilla-openfunctions-v1-GGUF): Gorilla OpenFunctions extends Large Language Model(LLM) Chat Completion feature to formulate executable APIs call given natural language instructions and API context.
