@@ -33,6 +33,11 @@ This is a collection of links to various AI projects, tools, and resources that 
 - [Crew AI Instagram Post](https://mer.vin/2024/01/crew-ai-instagram-post/): A social media post that introduces CrewAI and its benefits.
 - [Welcome to the Course](https://www.wandb.courses/courses/take/effective-mlops-model-development/lessons/40025747-welcome-to-the-course): A course that teaches you how to use Weights and Biases, a tool that helps you track, visualize, and optimize your machine learning experiments.
 
+## Tools and Application for experimenting with LLM
+- [PrivateGPT](https://github.com/imartinez/privateGPT): a production-ready AI project that allows you to ask questions about your documents using the power of Large Language Models (LLMs), even in scenarios without an Internet connection.
+- [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio): a framework and no-code GUI designed for fine-tuning state-of-the-art large language models.
+- [LM Studio](https://lmstudio.ai/): LM studio is a tool that you can use to experiment with local and open-source LLMs.
+
 ## Miscellaneous
 - [Notebooks Variety](https://github.com/githubpradeep/notebooks): A collection of Jupyter notebooks that cover various topics and applications of AI and machine learning.
 - [YouTube - ChatGPT "Code Interpreter" But 100% Open-Source (Open Interpreter Tutorial)](https://www.youtube.com/watch?v=xPd8FFzIeOw): ChatGPT "Code Interpreter" But 100% Open-Source (Open Interpreter Tutorial)
