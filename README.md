@@ -37,6 +37,7 @@ This is a collection of links to various AI projects, tools, and resources that 
 - [PrivateGPT](https://github.com/imartinez/privateGPT): a production-ready AI project that allows you to ask questions about your documents using the power of Large Language Models (LLMs), even in scenarios without an Internet connection.
 - [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio): a framework and no-code GUI designed for fine-tuning state-of-the-art large language models.
 - [LM Studio](https://lmstudio.ai/): LM studio is a tool that you can use to experiment with local and open-source LLMs.
+- [h2o.ai GPT demo](https://gpt.h2o.ai/)
 
 ## Miscellaneous
 - [Notebooks Variety](https://github.com/githubpradeep/notebooks): A collection of Jupyter notebooks that cover various topics and applications of AI and machine learning.
