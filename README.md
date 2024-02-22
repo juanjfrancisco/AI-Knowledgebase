@@ -45,4 +45,5 @@ This is a collection of links to various AI projects, tools, and resources that 
 - [YouTube - JavaScript Tutorial](https://www.youtube.com/watch?v=5iHejdqYIa8): Build a Virtual World Filled with Self-Driving Cars.
 - [YouTube - Tiny-Llama](https://www.youtube.com/watch?v=OVqe6GTrDFM): Fine-Tune Your Own Tiny-Llama on Custom Dataset.
 - [YouTube - Finetune Tiny LLaMA 1.1B](https://www.youtube.com/watch?v=hZPfKrNeKpQ): Finetune Tiny LLaMA 1.1B On A Custom Dataset - Function Calling - JSON Mode
-.
+- [Youtube - Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&list=WL): Let's build the GPT Tokenizer
+. [groq](https://groq.com/)
