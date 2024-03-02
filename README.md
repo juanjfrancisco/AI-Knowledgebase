@@ -48,3 +48,4 @@ This is a collection of links to various AI projects, tools, and resources that 
 - [YouTube - Finetune Tiny LLaMA 1.1B](https://www.youtube.com/watch?v=hZPfKrNeKpQ): Finetune Tiny LLaMA 1.1B On A Custom Dataset - Function Calling - JSON Mode
 - [Youtube - Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&list=WL): Let's build the GPT Tokenizer
 . [groq](https://groq.com/)
+- [2,500+ ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/2-500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
