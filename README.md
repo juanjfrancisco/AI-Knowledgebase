@@ -1,6 +1,14 @@
 # AI Projects Resources
 This is a collection of links to various AI projects, tools, and resources that you might find useful or interesting. They are grouped by category based on their main topic or functionality.
 
+## Prompting
+- [2,500+ ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/2-500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
+- [Claude prompting guide](claude-prompting-guide.md)
+- [Mistral prompting capabilites](https://docs.mistral.ai/guides/prompting_capabilities)
+- [Técnicas de Prompting](https://www.promptingguide.ai/es/techniques)
+- [Claude 3.5 Sonnet, Full Artifacts System Prompt](https://gist.github.com/dedlim/6bf6d81f77c19e20cd40594aa09e3ecd)
+- [Open AI - Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+  
 ## Automatic speech recognition (ASR)
 - [PyPI - Stable TS 1.1.1b0](https://pypi.org/project/stable-ts/1.1.1b0/): Stabilizing timestamps of OpenAI's Whisper outputs down to word-level.
 - [GitHub - Stable TS](https://github.com/jianfch/stable-ts): Stabilizing Timestamps for Whisper.
